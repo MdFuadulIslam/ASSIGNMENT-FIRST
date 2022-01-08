@@ -4,7 +4,7 @@
     border-radius:5px;
     color: azure;
     padding:10px 30px;
-    font: weight 800px;;
+    font-weight:600px;;
 }
 
  body{
@@ -15,7 +15,10 @@ font-family: 'Volkhov', serif;
 h1{
     font-size:50px;
 }
-
+section{
+    padding-left:5%;
+    padding-right:5%;
+}
 .half-width-div{
     width:50%;
     margin-left:8%;
@@ -33,6 +36,7 @@ h1{
 }
 .flexible-container-div{
     display:flex;
+    margin-bottom:80px;
    
 
 }
@@ -65,3 +69,35 @@ background-color: linen;
     background-color: mediumspringgreen;
 
 }
+.dream-mission h1
+{text-align:center}
+
+.flexible
+{justify-content:center}
+
+.picture-size{
+    width:100%;
+    padding:3%
+
+}
+#pic-size{
+    width:90%;
+}
+#pic-size img{
+width: 90%;
+
+}
+
+.playfair{
+    font-family:'Playfair Display'}
+
+.tomato-color{
+    color:tomato;margin-top:-40px}
+
+    footer{
+        text-align:center;
+        padding:2%;
+        background-color:#000;
+        color:rgb(190, 133, 133);
+        margin-bottom:0}
+
