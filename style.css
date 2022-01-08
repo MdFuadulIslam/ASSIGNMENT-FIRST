@@ -27,14 +27,41 @@ h1{
     border-left: 1mm ridge rgba(0, 0, 0, 0.6);
 }
 
+
 .half-width-div img{
     width:80%;
 }
 .flexible-container-div{
     display:flex;
+   
 
 }
 .orange-color{
 
     color:orange;
+}
+
+.three-border-in-div{
+    margin:20px 10px;
+    padding:4%;
+    border-radius: 5px;
+    box-shadow: 5px 7px 40px 
+    gray;
+   
+    width: 25% ;
+   
+     
+}    
+.image-size{
+    width:40%;
+}
+.background1{
+background-color: lightskyblue;
+}
+.background2{
+background-color: linen;
+}
+.background3{
+    background-color: mediumspringgreen;
+
 }
