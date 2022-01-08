@@ -22,6 +22,10 @@ h1{
     padding-left:10%;
 
 }
+#leftBorder-line{
+
+    border-left: 1mm ridge rgba(0, 0, 0, 0.6);
+}
 
 .half-width-div img{
     width:80%;
@@ -29,4 +33,8 @@ h1{
 .flexible-container-div{
     display:flex;
 
+}
+.orange-color{
+
+    color:orange;
 }
